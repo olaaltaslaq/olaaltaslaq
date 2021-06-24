@@ -1,3 +1,6 @@
+
+<img src="https://i.pinimg.com/originals/c4/01/e7/c401e7542ebab3674984a4f7c028c856.gif" alt="welto">
+
 - 👋 Hi, I’m @olaaltaslaq 
 - 👀 I’m interested in learning anything important to me 
 - 🌱 I’m currently learning coding
