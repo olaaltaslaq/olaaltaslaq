@@ -1,4 +1,4 @@
-<section align="center" >
+<section style='align:center' >
 <img src="https://i1.sndcdn.com/artworks-000119753893-hmcq4m-t500x500.jpg" alt="welto">
    <section/>
 
