@@ -1,5 +1,5 @@
 
-<img align="center" src="https://i.pinimg.com/originals/c4/01/e7/c401e7542ebab3674984a4f7c028c856.gif" alt="welto">
+<img align="center" src="https://i1.sndcdn.com/artworks-000119753893-hmcq4m-t500x500.jpg" alt="welto">
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=olaaltaslaq&show_icons=true&theme=monokai">
